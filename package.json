@@ -11,6 +11,7 @@
     "react-icons": "^3.8.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
+    "react-social-icons": "^4.1.0",
     "react-social-login-buttons": "^3.0.0"
   },
   "scripts": {

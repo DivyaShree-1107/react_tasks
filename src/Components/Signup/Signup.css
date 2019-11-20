@@ -1,8 +1,53 @@
 .sign_body{
- background-color: blueviolet;
+ background-color:#361a4fe8;
  font-size: 20px;
  padding: 20px;
  margin: 50px;
  width: 500px;
- height: 1000px;
+ height: 570px;
+ margin-left:30% ;
+}
+.form_content{
+    margin: 10px;
+    height: 30px;
+    width: 80%;
+    color: white;
+    background-color:#361a4fe8;
+    margin-left:20px ;
+    padding-left:20px ;
+}
+.button{
+    background-color: crimson;
+    color: white;
+    width: 250px;
+    height: 30px;
+    margin-left:80px ;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.title{
+    margin-left:150px ;
+}
+.agree_line{
+    margin: 20px;
+}
+.form_content_last{
+    margin: 10px;
+    height: 30px;
+    width: 80%;
+    color: white;
+    background-color:#361a4fe8;
+    margin-left:20px ;
+    padding-left:20px ;
+    margin-bottom: 50px;
+}
+.main_title{
+    margin-left:35% ;
+}
+.link{
+    margin-left:25% ;
+    color: white;
+    text-decoration: none;
+    
 }

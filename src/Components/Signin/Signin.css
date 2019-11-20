@@ -1,0 +1,57 @@
+.full_body{
+    background-color:#361a4fe8;
+    height: 500px;
+    width: 400px;
+    margin-left:35% ;
+    padding: 20px;
+}
+.image_butter{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left:130px ;
+}
+.input_content{
+    height: 30px;
+    width: 80%;
+    color: white;
+    background-color:#361a4fe8;
+    margin-left:20px ;
+    padding-left:20px ;
+    margin: 10px;
+}
+.button{
+    background-color: crimson;
+    color: white;
+    width:200px;
+    height: 20px;
+    margin-left:50px ;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.forgot{
+    margin-left:25% ;
+}
+.last_content{
+   padding-left:80px ;
+   padding-top: 50px;
+}
+.last_content_2{
+    padding-left:130px ;
+
+ }
+.last_div{
+    margin: 20px;
+    padding-bottom:50px ;
+    
+}
+.icons{
+    margin-left:80px ;
+   }
+.title_name{
+    margin-left:36% ;
+}
+.link{
+    margin-left:25% ;
+}
