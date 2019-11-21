@@ -28,6 +28,7 @@
 }
 .title{
     margin-left:150px ;
+    color: white;
 }
 .agree_line{
     margin: 20px;
@@ -44,10 +45,15 @@
 }
 .main_title{
     margin-left:35% ;
+    
 }
 .link{
     margin-left:25% ;
     color: white;
     text-decoration: none;
     
+}
+::placeholder {
+    color: white;
+    opacity: 1;
 }
