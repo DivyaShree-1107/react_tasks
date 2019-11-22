@@ -7,6 +7,6 @@ const Useroutput = (props) => {
             <p>I am {props.age} year old</p>
         </div>
     );
-};
+},;
 
 export default Useroutput;
